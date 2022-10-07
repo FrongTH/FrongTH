@@ -11,9 +11,10 @@
   
 
 - ⚡ I look forward to all about AI job.  
-  
 
 - 🤖 I think AI will change our real life better NOT instead   
+
+- ⚡ You can see my project below guys!
   
 
 <br/>  
