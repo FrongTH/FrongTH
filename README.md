@@ -65,27 +65,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-# <div align="center"> Github Stats </div>  
- 
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FrongTH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=FrongTH&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
 <br />
 
 ----
