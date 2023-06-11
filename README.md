@@ -44,7 +44,7 @@ You can contact me on
 #### Computer Vision
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
-..Coming soon..  | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. [Project Repo](link)
+Diabetic retinopathy classification  | DRD, APTOS, DDR, DeepDRiD, IDRiD, Messidor-2 | Image classification using hunggingface pretrained model (SwinTranV2). My master thesis at Khon Kaen university | 2022 | ..Coming soon.. [Project Repo](link)
 
 #### Natural Language Processing
 Topic | Dataset | Description | Year | Code
