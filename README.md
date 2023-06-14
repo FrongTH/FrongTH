@@ -55,11 +55,17 @@ Topic | Dataset | Description | Year | Code
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
 ..Coming soon..  | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. [Project Repo](link)
+  
+#### Tabular
+Topic | Dataset | Description | Year | Code
+------| ------- | ----------- | ---- | -----
+Price estimation software  | THG private dataset | Estiation on procedure charge using machine learning | 2023 | ..Coming soon.. [Project Repo](link)
 
 #### Others
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
 ..Coming soon..  | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. [Project Repo](link)
+
 </details>
 
 ### My experiences
