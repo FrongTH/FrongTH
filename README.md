@@ -11,7 +11,7 @@ Frong
 - 📃 I enjoy simplifying and summarizing knowledge, making it easier for others to understand. I find satisfaction in breaking down complex ideas and explaining them in simple terms. Here you can see on my medium blog ([soon...]) 
 
 You can contact me on  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rattapon-sanguantrakool-99b509173/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rattapon-sanguantrakool-99b509173/)
 
 ### Skills and Tools
 <details>
@@ -20,19 +20,23 @@ You can contact me on
 </summary>
 
 #### Programming languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
   
 #### Frontend Development
-![HTML](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB) ![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css.js&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 
 #### Backend Develpment
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=green) ![NoSQL](https://img.shields.io/badge/NoSQL-4479A1.svg?style=for-the-badge&logo=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Machine Learning
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 	![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 	![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
   
 #### Data Science
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 	![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Wandb](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+
+#### Design 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </details>
 
 ### My Machine Learning experiences 
@@ -45,6 +49,7 @@ You can contact me on
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
 Diabetic retinopathy classification  | DRD, APTOS, DDR, DeepDRiD, IDRiD, Messidor-2 | Image classification using hunggingface pretrained model (SwinTranV2). My master thesis at Khon Kaen university | 2022 | ..Coming soon.. [Project Repo](link)
+Plant seeds detection | Competition dataset >>[Click here](https://www.kaggle.com/competitions/superai-north-seed-detection/data) | Seed dection and counting with YOLOv8 | 2023 | ..Coming soon.. [Project Repo](link)
 
 #### Natural Language Processing
 Topic | Dataset | Description | Year | Code
