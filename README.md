@@ -50,7 +50,7 @@ Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
 Diabetic retinopathy classification  | DRD, APTOS, DDR, DeepDRiD, IDRiD, Messidor-2 | Image classification using hunggingface pretrained model (SwinTranV2). My master thesis at Khon Kaen university | 2022 | ..Coming soon.. [Project Repo](link)
 Plant seeds detection | Competition dataset >>[Click here](https://www.kaggle.com/competitions/superai-north-seed-detection/data) | Seed dection and counting with YOLOv8 | 2023 | ..Coming soon.. [Project Repo](link)
-Cloud Recognition | Competition dataset >>[Click here](https://www.kaggle.com/competitions/hackathon-online-cloud-recognition/data) | Cloud classification with Fastai | 2023 | ..Coming soon.. [Project Repo](link)
+Cloud Recognition | Competition dataset >>[Click here](https://www.kaggle.com/competitions/hackathon-online-cloud-recognition/data) | Cloud classification with Fastai | 2023 | ..Coming soon.. [Project Repo]([link](https://github.com/FrongTH/Hackathon-Cloud-Recognition-by-Super-AI-Engineer-Season-3))
 
 #### Natural Language Processing
 Topic | Dataset | Description | Year | Code
