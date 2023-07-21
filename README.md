@@ -48,29 +48,29 @@ You can contact me on
 #### Computer Vision
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
-Diabetic retinopathy classification  | DRD, APTOS, DDR, DeepDRiD, IDRiD, Messidor-2 | Image classification using hunggingface pretrained model (SwinTranV2). My master thesis at Khon Kaen university | 2022 | ..Coming soon.. [Project Repo](link)
-Plant seeds detection | Competition dataset >>[Click here](https://www.kaggle.com/competitions/superai-north-seed-detection/data) | Seed dection and counting with YOLOv8 | 2023 | ..Coming soon.. [Project Repo](link)
+Diabetic retinopathy classification  | DRD, APTOS, DDR, DeepDRiD, IDRiD, Messidor-2 | Image classification using hunggingface pretrained model (SwinTranV2). My master thesis at Khon Kaen university | 2022 | ..Coming soon..
+Plant seeds detection | Competition dataset >>[Click here](https://www.kaggle.com/competitions/superai-north-seed-detection/data) | Seed dection and counting with YOLOv8 | 2023 | ..Coming soon..
 Cloud Recognition | Competition dataset >>[Click here](https://www.kaggle.com/competitions/hackathon-online-cloud-recognition/data) | Cloud classification with Fastai | 2023 | [Project Repo](https://github.com/FrongTH/Hackathon-Cloud-Recognition-by-Super-AI-Engineer-Season-3)
 
 #### Natural Language Processing
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
-..Coming soon..  | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. [Project Repo](link)
+..Coming soon..  | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. 
 
 #### Time series
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
-..Coming soon..  | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. [Project Repo](link)
+..Coming soon..  | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. 
   
 #### Tabular
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
-Price estimation software  | THG private dataset | Estiation on procedure charge using machine learning | 2023 | ..Coming soon.. [Project Repo](link)
+Price estimation software  | THG private dataset | Estiation on procedure charge using machine learning | 2023 | ..Coming soon.. 
 
 #### Others
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
-..Coming soon..  | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. [Project Repo](link)
+..Coming soon..  | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. 
 
 </details>
 
