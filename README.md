@@ -51,6 +51,9 @@ Topic | Dataset | Description | Year | Code
 Diabetic Retinopathy Classification  | APTOS, DeepDRiD | Supervised Feature Attention Transfer and Multitask Learning. My master thesis at Khon Kaen university | 2023 | ..Coming soon..
 Plant seeds detection | Competition dataset >>[Click here](https://www.kaggle.com/competitions/superai-north-seed-detection/data) | Seed dection and counting with YOLOv8 | 2023 | [Project Repo](https://github.com/FrongTH/Hackathon-Plant-seeds-detection-by-Super-AI-Engineer-Season-3)
 Cloud Recognition | Competition dataset >>[Click here](https://www.kaggle.com/competitions/hackathon-online-cloud-recognition/data) | Cloud classification with Fastai | 2023 | [Project Repo](https://github.com/FrongTH/Hackathon-Cloud-Recognition-by-Super-AI-Engineer-Season-3)
+Wheat-head detection | Competition dataset >>[Click here](https://www.kaggle.com/competitions/wheat-head-for-superai-3/data) | Wheat-head detection and counting with YOLOv8 | 2023 | [Project Repo](https://github.com/FrongTH/Hackathon-Agricultural-Product-Images-by-Super-AI-Engineer-Season-3)
+Real or Fake number classification | Competition dataset >>[Click here](https://www.kaggle.com/competitions/hackathon-online-realfakenumbers/data) | FastAI classification with ResNet34 | 2023 | [Project Repo](https://github.com/FrongTH/Hackathon-Real-or-Fake-number-by-Super-AI-Season-3)
+
 
 #### Natural Language Processing
 Topic | Dataset | Description | Year | Code
@@ -65,7 +68,7 @@ Topic | Dataset | Description | Year | Code
 #### Tabular
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
-Price estimation software  | THG private dataset | Estiation on procedure charge using machine learning | 2023 | ..Coming soon.. 
+Price estimation software  | THG private dataset | Estiation on procedure charge using machine learning | 2023 | [Project Repo](https://github.com/FrongTH/Price_Estimation_Software_At_THG)
 
 #### Others
 Topic | Dataset | Description | Year | Code
