@@ -86,13 +86,13 @@ Topic | Dataset | Description | Year | Code
   #### Civil Engineer
   - 🏡 Project site engineering at ASA House Co.,Ltd. Khon Kaen, 2021
   
-  #### Ai Engineer
-  - coming soon..
+  #### Data scientist
+  - <img src="https://download-th.com/wp-content/uploads/2021/02/Dohome.jpg" width="20" height="20"> Data scientist/Machine learning Engineer, 2023-Now
 
   #### Internships
   - <img src="https://s3-symbol-logo.tradingview.com/italian-thai-development--600.png" width="20" height="20"> Internship with Italian-Thai Development Public Co Ltd., 2019 
-  - <img src="https://scontent.fbkk4-5.fna.fbcdn.net/v/t39.30808-6/335447706_566381908597630_5511798379302711607_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFGTn5iS73yNCWdRP-ee1wkxc8i84xiPkzFzyLzjGI-TN4HC4x_CIBRhkAYUglC5cVDQkyBUn6wWFG0ySjEXwbC&_nc_ohc=g1Gx6RamlwoAX_zvmkG&_nc_zt=23&_nc_ht=scontent.fbkk4-5.fna&oh=00_AfCBZ9mr2QCA5z162T7RvOMhKKu6tn2czJiAUk6V99bYVw&oe=64899A16" width="20" height="20"> Internship with Pruksa Real Estate Co.,Ltd.,  Project : Create S – curve graph of construction management to project progress, 2020
-  - <img src="https://scontent.fbkk4-4.fna.fbcdn.net/v/t1.6435-9/92326788_631432784101932_8364635356569534464_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEmkFnWJSPz-gGOAyljKRdlGEGsCnjlk64YQawKeOWTrsh2QBXTsQmUmiOEbMENffvq4CMCIl5kTL5bODClgPNB&_nc_ohc=v6QTKaFdUi8AX8dP5tU&_nc_oc=AQlNSSNWtv9syll49BkWlUjm6KH3j5ycNe9WW83AG12M8iSS9lWgnPqoc6K9oQ7aAWY&_nc_ht=scontent.fbkk4-4.fna&oh=00_AfBd8_TLhD_1JUV3bxzw5AsF0M4rEfzCYTzRbUiU-IdK6A&oe=64AD1125" width="20" height="20"> Intership with Thonburi Healthcare Group Co.,Ltd. at Thonburi Bamrungmuang Hospital, Project : Price estimation software for service, 2023
+  - <img src="https://assets.baanfinder.com/thumbnail/8yjul8s8vjco4i9k988e5ejpesmqrsd3xkhafh5db6ldk0vxxh9fxkwcv0k4qlm24zfns46iynmdwtuzcjoi5gqxyb05fdwv3r3op6ajxrqnczh4gs9meezwzkekv5h5.jpg" width="20" height="20"> Internship with Pruksa Real Estate Co.,Ltd.,  Project : Create S – curve graph of construction management to project progress, 2020
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSBKT80Qmmd1xP6AGTyCcTCd-kXbCOsLv_h3610tuK3-UmxqaqyOc2A8uxAXT5pt6Eknc&usqp=CAU" width="20" height="20"> Intership with Thonburi Healthcare Group Co.,Ltd. at Thonburi Bamrungmuang Hospital, Project : Price estimation software for service, 2023
   
   ![Profile Views](https://komarev.com/ghpvc/?username=FrongTH)
 </details>
