@@ -82,13 +82,12 @@ Topic | Dataset | Description | Year | Code
 <summary> 
 ⭕ Click Me ⭕
 </summary>
+  #### Data scientist
+  - <img src="https://download-th.com/wp-content/uploads/2021/02/Dohome.jpg" width="20" height="20"> Data scientist/Machine learning Engineer, 2023-Now
   
   #### Civil Engineer
   - 🏡 Project site engineering at ASA House Co.,Ltd. Khon Kaen, 2021
   
-  #### Data scientist
-  - <img src="https://download-th.com/wp-content/uploads/2021/02/Dohome.jpg" width="20" height="20"> Data scientist/Machine learning Engineer, 2023-Now
-
   #### Internships
   - <img src="https://s3-symbol-logo.tradingview.com/italian-thai-development--600.png" width="20" height="20"> Internship with Italian-Thai Development Public Co Ltd., 2019 
   - <img src="https://assets.baanfinder.com/thumbnail/8yjul8s8vjco4i9k988e5ejpesmqrsd3xkhafh5db6ldk0vxxh9fxkwcv0k4qlm24zfns46iynmdwtuzcjoi5gqxyb05fdwv3r3op6ajxrqnczh4gs9meezwzkekv5h5.jpg" width="20" height="20"> Internship with Pruksa Real Estate Co.,Ltd.,  Project : Create S – curve graph of construction management to project progress, 2020
