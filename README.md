@@ -75,6 +75,11 @@ Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
 ..Coming soon..  | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. | ..Coming soon.. 
 
+#### Real-world problem
+Topic | Dataset | Description | Year | Code
+------| ------- | ----------- | ---- | -----
+Online assortment  | Dohome and market place data | Reducing human process to select the offline product to sell in Dohome Ecommerce | 2024 | Private 
+
 </details>
 
 ### My experiences
